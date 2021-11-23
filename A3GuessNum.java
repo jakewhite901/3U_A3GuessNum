@@ -1,7 +1,7 @@
 /*
-*Name:
-*Date:
-*Desription:
+*Jake White
+*Assignment started November 23, 2021
+*This is a random number generator where the user can guess the number! The user will have 5 guesses to correctly predict the number that the computer chooses.
 */
 
 import java.util.*;
